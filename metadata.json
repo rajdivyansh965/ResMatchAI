@@ -1,0 +1,5 @@
+{
+  "name": "ResuMatch AI",
+  "description": "Enterprise-grade Resume Analyzer and ATS Optimizer using Gemini 2.5 Flash. Features intelligent parsing, semantic job matching, and detailed analytics.",
+  "requestFramePermissions": []
+}
